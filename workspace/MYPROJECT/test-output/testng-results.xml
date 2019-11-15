@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="184" started-at="2019-11-14T11:39:48Z" finished-at="2019-11-14T11:39:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="184" started-at="2019-11-14T11:39:48Z" finished-at="2019-11-14T11:39:49Z">
+      <class name="hello.hello_suit2">
+        <test-method status="PASS" signature="F()[pri:0, instance:hello.hello_suit2@4af044]" name="F" is-config="true" duration-ms="78" started-at="2019-11-14T17:09:48Z" finished-at="2019-11-14T17:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+        <test-method status="PASS" signature="E()[pri:0, instance:hello.hello_suit2@4af044]" name="E" duration-ms="49" started-at="2019-11-14T17:09:48Z" finished-at="2019-11-14T17:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method status="PASS" signature="D()[pri:1, instance:hello.hello_suit2@4af044]" name="D" duration-ms="0" started-at="2019-11-14T17:09:49Z" finished-at="2019-11-14T17:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+      </class> <!-- hello.hello_suit2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
